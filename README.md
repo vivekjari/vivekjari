@@ -1,4 +1,4 @@
-[![MasterHead]https://i.pinimg.com/originals/e0/41/82/e04182f6094f2764001c1df50b6a2971.gif![image](https://github.com/vivekjari/vivekjari/assets/110350881/4bca68ff-bc09-464e-bd7f-cecac7a1fd65)
+
 <h1 align="center">Hi 👋, I'm Vivek Jariwala</h1>
 <h3 align="center">A skilled data analyst with strong abilities to transform raw numbers into actionable insights.</h3>
 <img align = "right" alt = "Coding" width = "400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" >
